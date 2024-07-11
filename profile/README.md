@@ -15,5 +15,6 @@
 - 열심히 해서 코테 마스터가 되어보장
   
 ### 날짜별 문제
+7월 2주차
 **24-07-11 시뮬레이션** : [2048 (Easy)](https://www.acmicpc.net/problem/12100), [치킨 배달](https://www.acmicpc.net/problem/15686)   
 **24-07-12 백트래킹** [N과 M(1)](https://www.acmicpc.net/problem/15649), [N-Queen](https://www.acmicpc.net/problem/9663) (*N-Queen 어려운 문제이기에 실버 1 골드 1 내겠습니다.*)
