@@ -23,8 +23,8 @@
 7월 3주차
 
 
-**24-07-15** : [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)
+**24-07-15** : [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)         
 **24-07-16** [트리의 부모 찾기](https://www.acmicpc.net/problem/11725), [트리 순회](https://www.acmicpc.net/problem/1991), [로프](https://www.acmicpc.net/problem/2217), [보물](https://www.acmicpc.net/problem/1026)      
-**24-07-17** [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620), [수강신청](https://www.acmicpc.net/problem/13414) 
-**24-07-18** [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)   
-**24-07-22** [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)     
+**24-07-17** [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620), [수강신청](https://www.acmicpc.net/problem/13414)         
+**24-07-18** [숨바꼭질](https://www.acmicpc.net/problem/1697), [유기농 배추](https://www.acmicpc.net/problem/1012), [적록색약](https://www.acmicpc.net/problem/10026)             
+**24-07-22** [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)               
