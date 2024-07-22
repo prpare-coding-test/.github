@@ -30,4 +30,5 @@
 **24-07-22** [수 고르기](https://www.acmicpc.net/problem/2230), [부분합](https://www.acmicpc.net/problem/1806)                 
 
 7월 4주차
-**24-07-24** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430) 
+
+**24-07-24** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430)       
