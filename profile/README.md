@@ -31,4 +31,5 @@
 
 7월 4주차
 
+**24-07-23** [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [토마토](https://www.acmicpc.net/problem/7569)         
 **24-07-24** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430)       
