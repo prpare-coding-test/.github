@@ -37,3 +37,4 @@
 
 **240729** : [주사위 굴리기](https://www.acmicpc.net/problem/14499), [트럭](https://www.acmicpc.net/problem/13335), [구슬찾기](https://www.acmicpc.net/problem/2617)     
 **240730** : [트리](https://www.acmicpc.net/problem/4803), [트리와 쿼리](https://www.acmicpc.net/problem/15681), [듣보잡](https://www.acmicpc.net/problem/1764)   
+**240801** : [List of Unique Numbers](https://www.acmicpc.net/problem/13144), [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862), [회전 초밥](https://www.acmicpc.net/problem/2531)          
