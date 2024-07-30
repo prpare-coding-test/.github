@@ -34,3 +34,6 @@
 **24-07-23** [뿌요뿌요](https://www.acmicpc.net/problem/11559), [톱니바퀴](https://www.acmicpc.net/problem/14891), [토마토](https://www.acmicpc.net/problem/7569)         
 **24-07-24** [덱](https://www.acmicpc.net/problem/10866), [회전하는 큐](https://www.acmicpc.net/problem/1021) [AC](https://www.acmicpc.net/problem/5430)    
 **24-07-26** [경사로](https://www.acmicpc.net/problem/14890), [절댓값 힙](https://www.acmicpc.net/problem/11286), [카드 정렬하기](https://www.acmicpc.net/problem/1715)    
+
+**240729** : [주사위 굴리기](https://www.acmicpc.net/problem/14499), [트럭](https://www.acmicpc.net/problem/13335), [구슬찾기](https://www.acmicpc.net/problem/2617)     
+**240730** : [트리](https://www.acmicpc.net/problem/4803), [트리와 쿼리](https://www.acmicpc.net/problem/15681), [듣보잡](https://www.acmicpc.net/problem/1764)   
