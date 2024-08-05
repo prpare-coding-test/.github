@@ -39,3 +39,4 @@
 **240730** : [트리](https://www.acmicpc.net/problem/4803), [트리와 쿼리](https://www.acmicpc.net/problem/15681), [듣보잡](https://www.acmicpc.net/problem/1764)   
 **240801** : [List of Unique Numbers](https://www.acmicpc.net/problem/13144), [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862), [회전 초밥](https://www.acmicpc.net/problem/2531)          
 **240802** : [파일합치기 3](https://www.acmicpc.net/problem/13975), [공주님의 정원](https://www.acmicpc.net/problem/2457), [카드 합체 놀이](https://www.acmicpc.net/problem/15903)     
+**240805** : [가운데를 말해요](https://www.acmicpc.net/problem/1655), [최단경로](https://www.acmicpc.net/problem/1753), [최소비용 구하기2](https://www.acmicpc.net/problem/11779)      
