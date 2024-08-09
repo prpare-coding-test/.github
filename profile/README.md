@@ -41,4 +41,6 @@
 **240802** : [파일합치기 3](https://www.acmicpc.net/problem/13975), [공주님의 정원](https://www.acmicpc.net/problem/2457), [카드 합체 놀이](https://www.acmicpc.net/problem/15903)     
 **240805** : [가운데를 말해요](https://www.acmicpc.net/problem/1655), [최단경로](https://www.acmicpc.net/problem/1753), [최소비용 구하기2](https://www.acmicpc.net/problem/11779)      
 **240806** : [상범 빌딩](https://www.acmicpc.net/problem/6593), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206), [안전 영역](https://www.acmicpc.net/problem/2468)         
+**240808** : [내리막길](https://www.acmicpc.net/problem/1520), [가장 큰 정사각형](https://www.acmicpc.net/problem/1915), [펠린드롬?](https://www.acmicpc.net/problem/10942)   
+**240809** : [사다리조작](https://www.acmicpc.net/problem/15684), [드래곤 커브](https://www.acmicpc.net/problem/15685), [공유기 설치](https://www.acmicpc.net/problem/2110)    
 **240812** : [로봇 청소기](https://www.acmicpc.net/problem/14503), [뱀](https://www.acmicpc.net/problem/3190), [테트로미노](https://www.acmicpc.net/problem/14500)             
